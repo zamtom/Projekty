@@ -6,4 +6,4 @@ bla bla bla
 [link2](https://allegro.pl)
 
 
-[link do raportu](/07%20Raporty/testrail-report-2%20(1).pdf)
+[link do raportu](07%20Raporty/testrail-report-2%20(1).pdf)
